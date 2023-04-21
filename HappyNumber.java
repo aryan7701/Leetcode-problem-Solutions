@@ -47,8 +47,8 @@ private int digitSquareSum(int n) {
     return slow == 1;
 }
     public static void main(String [] args){
-        Scanner scan = new Scanner(System.in);
-        int n= scan.nextInt();
-        System.out.println(HappyNumber(n));
+//        Scanner scan = new Scanner(System.in);
+//        int n= scan.nextInt();
+//        System.out.println(HappyNumber(n));
     }
 }
