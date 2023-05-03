@@ -19,3 +19,4 @@ class Solution(object):
 
         # Step 3: Return the result as a list of two lists.
         return [list1, list2]
+
