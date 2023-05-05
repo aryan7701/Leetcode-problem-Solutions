@@ -9,7 +9,6 @@ public class PrefixCommonArrayTwoArrays {
         }
         return false;
     }
-
     public static int[] findThePrefixCommonArray(int[] A, int[] B) {
         int n=A.length;
         int Common[] = new int[A.length];
@@ -25,8 +24,7 @@ public class PrefixCommonArrayTwoArrays {
         return Common;
     }
     public static void main(String[] args){
-
-
+//        int []= findThePrefixCommonArray();
 //            int X[] =;
 //            System.out.println(Arrays.toString(X));  // Output: [0, 2, 3, 4]
         }
