@@ -29,6 +29,6 @@ public class NumberOfStepsToReachANumberToZero {
         int num = SC.nextInt();
         int ans= numberOfSteps(num);
         System.out.println(ans);
-        
+
     }
 }
